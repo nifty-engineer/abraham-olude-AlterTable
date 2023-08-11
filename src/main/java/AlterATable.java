@@ -32,11 +32,7 @@ import java.sql.Statement;
  *      - Removing a column:
  *          - ALTER TABLE table_name DROP column_name;
  *
- *     NOTE: the [] in the "Adding a column" syntax means that the constraint is optional
- *
- *
- *    Additional reference material: https://www.w3schools.com/sql/sql_alter.asp
- *
+ *     NOTE: the [] in the "Adding a column" syntax means that the constraint is option
  */
 public class AlterATable {
 
